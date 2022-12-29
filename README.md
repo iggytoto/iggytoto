@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleskei "@iggytoto" Zhuravlev, also known as Ignatiev "Gassan" Gennadievich... but you can call me "Snake".
-- 👀 I’m interested in Software Engineering, game development with unreal engine.
-- 🌱 I’m currently learning Blueprints of Unreal Engine.
+- 👀 I’m interested in Software Engineering, game development.
+- 🌱 I’m currently learning Unity and developing my dungeons autochess game.
 - 💞️ I’m looking to collaborate on, actually i'm not.
 - 📫 How to reach me... Telegram @iggytoto or iggytoto@gmail.com
 
